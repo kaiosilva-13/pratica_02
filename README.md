@@ -25,6 +25,8 @@
 
 [Nest](https://github.com/nestjs/nest) framework TypeScript starter repository.
 
+Projeto referente a prática 2 da disciplina de Sistemas Corporativos
+
 ## Project setup
 
 ```bash
